@@ -1,0 +1,26 @@
+Illustrative Reduced-Round Simulation Results
+--------------------------------------------
+Round 3:
+Original Cipher: 4 balanced positions
+Modified Cipher: 3 balanced positions
+Observation: The modified version shows slightly weaker balanced behavior.
+
+Round 4:
+Original Cipher: 3 balanced positions
+Modified Cipher: 1 balanced position
+Observation: The modified version loses most balanced behavior earlier.
+
+Round 5:
+Original Cipher: 2 balanced positions
+Modified Cipher: 0 balanced positions
+Observation: Extra key whitening fully breaks the balanced property.
+
+Round 6:
+Original Cipher: 1 balanced position
+Modified Cipher: 0 balanced positions
+Observation: The modified version remains non-balanced.
+
+Round 7:
+Original Cipher: 0 balanced positions
+Modified Cipher: 0 balanced positions
+Observation: Neither version preserves balanced behavior.
