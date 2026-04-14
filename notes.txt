@@ -1,6 +1,0 @@
-Experiment Notes
-----------------
-Tested rounds: 3 to 7
-Plaintext structure: one active nibble, others fixed
-Goal: compare balanced output behavior before and after extra whitening
-Observation: modified version is expected to reduce balanced propagation
