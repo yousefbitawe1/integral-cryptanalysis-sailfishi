@@ -56,7 +56,7 @@ The presentation summarizes:
 
 File included:
 ```text
-presentation.pptx
+Enhancing-SAILFISH-I-Against-Integral-Cryptanalysis.pptx
 ```
 
 ---
