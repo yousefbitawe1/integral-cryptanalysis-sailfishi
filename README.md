@@ -39,7 +39,7 @@ The report contains:
 
 File included:
 ```text
-report.docx
+project_report.docx
 ```
 
 ---
